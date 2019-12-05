@@ -1,7 +1,7 @@
 # 🎮An Xbox One controller is required to play🎮
 
 ## How to use
-
+*This was made for the Steam version of Halo Reach, so it will only work with the Steam version of Halo Reach.*
 * Download as zip 
 * Extract Run haloreach.bat 
 * Select "Unlock Forge" and back up the binary when prompted
