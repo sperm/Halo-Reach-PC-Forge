@@ -43,7 +43,7 @@ The first option bytepatches the pakfile MCC-WindowsNoEditor.pak in 2 different 
 ## Credits
 dbenham - [JREPL.bat](https://www.dostips.com/forum/viewtopic.php?f=3&t=6044)
 
-[cat.exe](http://unxutils.sourceforge.net/UnxUtils.html)
+[split.exe](http://unxutils.sourceforge.net/UnxUtils.html)
 
 I don't know who found the bytepatches, but if someone makes me aware I will add them here.
 
