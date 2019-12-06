@@ -18,7 +18,7 @@ I made this at 4am because I couldn't sleep.
 
 <details><summary>Can I get banned for this?</summary>
 
-If you try to play in normal mod while these files are installed, you will not be banned, you will just get a violation error from EAC and your game won't open.
+If you try to play in normal mode while these files are installed, you will not be banned, you will just get a violation error from EAC and your game won't open.
 </details>
 
 <details><summary>Can I play with my friends?</summary>
