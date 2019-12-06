@@ -18,7 +18,7 @@ I made this at 4am because I couldn't sleep.
 
 <details><summary>Can I get banned for this?</summary>
 
-If you try to play in normal mod while these files are installed, you will not be banned, you just get a violation error and your game won't open.
+If you try to play in normal mod while these files are installed, you will not be banned, you will just get a violation error from EAC and your game won't open.
 </details>
 
 <details><summary>Can I play with my friends?</summary>
@@ -30,6 +30,13 @@ Yes you can, in a private match.
 
 Forge hasn't been fully ported to PC, so there aren't and PC controls in forge.
 </details>
+
+<details><summary>What does thos even do?</summary>
+
+The first option bytepatches the pakfile MCC-WindowsNoEditor.pak in 2 different places to enable Forge, and the second option downloads a modified forge_halo.map to expand the capability of Forge.
+</details>
+
+
 
 ## Credits
 dbenham - [JREPL.bat](https://www.dostips.com/forum/viewtopic.php?f=3&t=6044)
