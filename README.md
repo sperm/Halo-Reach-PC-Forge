@@ -31,7 +31,7 @@ Yes you can, in a private match.
 Forge hasn't been fully ported to PC, so there aren't and PC controls in forge.
 </details>
 
-<details><summary>What does thos even do?</summary>
+<details><summary>What does this even do?</summary>
 
 The first option bytepatches the pakfile MCC-WindowsNoEditor.pak in 2 different places to enable Forge, and the second option downloads a modified forge_halo.map to expand the capability of Forge.
 </details>
