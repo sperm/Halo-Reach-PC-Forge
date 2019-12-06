@@ -3,8 +3,6 @@
 ## How to use
 *This was made for the Steam version of Halo Reach, so it will only work with the Steam version of Halo Reach. Compatibility with the Xbox app is in the works.*
 
-(Temp issue) please extract this zip https://a.gg.fm/aTpOl.zip in the same folder as this.
-
 * Download as zip 
 * Extract Run haloreach.bat 
 * Select "Unlock Forge" and back up the binary when prompted
