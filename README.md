@@ -14,6 +14,22 @@ While you have these modified files, you will be unable to play online. If you c
 
 I made this at 4am because I couldn't sleep.
 
+## FAQ
+
+<details><summary>Can I get banned for this?</summary>
+
+If you try to play in normal mod while these files are installed, you will not be banned, you just get a violation error and your game won't open.
+</details>
+
+<details><summary>Can I play with my friends?</summary>
+
+Yes you can, in a private match.
+</details>
+
+<details><summary>Why do I need an Xbox One controller?</summary>
+
+Forge hasn't been fully ported to PC, so there aren't and PC controls in forge.
+</details>
 
 ## Credits
 dbenham - [JREPL.bat](https://www.dostips.com/forum/viewtopic.php?f=3&t=6044)
